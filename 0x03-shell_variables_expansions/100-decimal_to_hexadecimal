@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(( 16#$0x ))
+echo $(( 10#$0x ))
